@@ -6,12 +6,12 @@
 
 ## DNI :  14.620.696
 
-### CLASE 01 - Practica
+## CLASE 01 - Practica
 
 ### Consigna
 Ejercicios sobre clase tema CONJUNTOS 
 
-## Ejercicio 01
-#  Enunciado:
+### Ejercicio 01
+####  Enunciado:
 Dados dos conjuntos A y B, imprime los elementos que se encuentran en A o en B, o en ambos.
 
