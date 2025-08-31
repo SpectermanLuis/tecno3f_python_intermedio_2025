@@ -12,6 +12,24 @@
 Ejercicios sobre clase tema CONJUNTOS 
 
 ### Ejercicio 01
-####  Enunciado:
+####  Enunciado: 
 Dados dos conjuntos A y B, imprime los elementos que se encuentran en A o en B, o en ambos.
+
+### Ejercicio 02
+####  Enunciado:
+
+### Ejercicio 03
+####  Enunciado:
+
+### Ejercicio 04
+####  Enunciado:
+
+### Ejercicio 05
+####  Enunciado:
+
+
+
+
+
+
 
