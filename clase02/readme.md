@@ -43,7 +43,9 @@ captura la excepción ValueError. En cualquier caso, muestra un mensaje de error
 ## Resoluciones 
 
 ### Ejercicio 01 
-readme.md
+# Resoluciones de ejercicios
+
+- [Ejercicio 1](./readme.md)
 
 ### Ejercicio 02
 
