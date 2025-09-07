@@ -43,7 +43,7 @@ captura la excepción ValueError. En cualquier caso, muestra un mensaje de error
 ## Resoluciones 
 
 ### Ejercicio 01 
-
+[<<!nav>>instrucciones<<!/nav>>](clase02/readme.md)
 
 ### Ejercicio 02
 
