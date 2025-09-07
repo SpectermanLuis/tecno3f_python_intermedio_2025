@@ -39,12 +39,9 @@ captura la excepción ZeroDivisionError. Si el primer número es un número no v
 captura la excepción ValueError. En cualquier caso, muestra un mensaje de error al usuario.
 
 
-
-## Resoluciones 
+## Resoluciones de ejercicios
 
 ### Ejercicio 01 
-# Resoluciones de ejercicios
-
 - [Ejercicio 1](./readme.md)
 
 ### Ejercicio 02
