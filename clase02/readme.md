@@ -42,7 +42,7 @@ captura la excepción ValueError. En cualquier caso, muestra un mensaje de error
 ## Resoluciones de ejercicios
 
 ### Ejercicio 01 
-- [Ejercicio 1](./ejercicio01.py)
+- [Ejercicio 01](./ejercicio01.py)
 
 ### Ejercicio 02
 
