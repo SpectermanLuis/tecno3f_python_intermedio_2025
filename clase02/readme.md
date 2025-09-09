@@ -16,15 +16,21 @@ Ejercicios sobre clase 02 tema EXCEPCIONES
 Escribe un programa que intente dividir dos números. Si el segundo número es cero,
 captura la excepción ZeroDivisionError y muestra un mensaje de error al usuario.
 
+- [Resolucion Ejercicio 01](./ejercicio01.py)
+
 ### Ejercicio 02
 ####  Enunciado:
 Escribe un programa que intente sumar un número y una cadena. Si se produce un error
 de tipo, captura la excepción TypeError y muestra un mensaje de error al usuario.
 
+- [Resolucion Ejercicio 02](./ejercicio02.py)
+
 ### Ejercicio 03
 ####  Enunciado:
 Escribe un programa que intente acceder a una clave que no existe en un
 diccionario. Si se produce una excepción KeyError, captura la excepción y muestra
+
+- [Resolucion Ejercicio 03](./ejercicio03.py)
 
 ### Ejercicio 04
 ####  Enunciado:
@@ -32,29 +38,12 @@ Escribe un programa que intente abrir un archivo que no existe. Si se produce un
 FileNotFoundError, captura la excepción y muestra un mensaje de error al usuario. Sin
 embargo, también intenta crear el archivo si no existe.
 
+- [Resolucion Ejercicio 04](./ejercicio04.py)
+
 ### Ejercicio 05
 ####  Enunciado:
 Escribe un programa que intente dividir dos números. Si el segundo número es cero,
 captura la excepción ZeroDivisionError. Si el primer número es un número no válido,
 captura la excepción ValueError. En cualquier caso, muestra un mensaje de error al usuario.
 
-
-## Resoluciones de ejercicios
-
-### Ejercicio 01 
-- [Ejercicio 01](./ejercicio01.py)
-
-### Ejercicio 02
-
-
-### Ejercicio 03
-
-
-### Ejercicio 04
-
-
-### Ejercicio 05
-
-
-Uso de len
-
+- [Resolucion Ejercicio 05](./ejercicio05.py)
