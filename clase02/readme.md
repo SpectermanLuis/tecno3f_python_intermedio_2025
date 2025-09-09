@@ -16,7 +16,7 @@ Ejercicios sobre clase 02 tema EXCEPCIONES
 Escribe un programa que intente dividir dos números. Si el segundo número es cero,
 captura la excepción ZeroDivisionError y muestra un mensaje de error al usuario.
 
-- [Resolucion Ejercicio 01](/ejercicio01.py)
+- [Ejercicio 01 – Resolución](Ejercicio01.py)
 
 ### Ejercicio 02
 ####  Enunciado:
