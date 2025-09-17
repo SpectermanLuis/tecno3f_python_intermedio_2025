@@ -1,27 +1,21 @@
-# Ejercicio 02 ---------------------------------------
-#   Escribe un programa que intente sumar un número y una cadena. 
-#   Si se produce un error de tipo, captura la excepción TypeError 
-#   y muestra un mensaje de error al usuario.
+# Ejercicio 02---------------------------------------
+#   Buscar una palabra en una lista ingresada por teclado 
+#   usando args y un operador ternario
 # ----------------------------------------------------
 
+def buscar_palabra(palabra, *args):
+    return "Encontrada" if palabra in args else "No encontrada"
 
-def  suma(numero1,numero2):
-   try:
-       resultado = numero1 +  numero2
-       print(f"El resultado de la suma es:", resultado)
+lista_palabras = []
+while True:
+    palabra = input("Ingrese una palabra (o 'fin' para terminar): ")
+    if palabra.lower() == "fin":
+        break
+    lista_palabras.append(palabra)
 
-   except TypeError:
-     print(f"Ha ocurrido un error con los tipos de datos")
+print("Lista de palabras:", lista_palabras)
 
 
+palabra_a_buscar = input("Ingrese la palabra a buscar: ")
 
-#  version con datos correctos
-print("Ejecucion con datos correctos")
-suma(100,15)
-
-print("-----------------------------------")
-
-#  version con datos incorrectos
-print("Ejecucion con datos incorrectos")
-suma(100,'z')
-
+print(buscar_palabra(palabra_a_buscar.lower(), *lista_palabras))

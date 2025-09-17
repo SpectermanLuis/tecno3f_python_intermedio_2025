@@ -1,22 +1,6 @@
 # Ejercicio 03 ---------------------------------------
-#   Escribe un programa que intente acceder a una clave que 
-#   no existe en un diccionario. Si se produce una excepción KeyError,
-#   captura la excepción y muestra un mensaje de error al usuario.
+#   Determinar si un número es par o impar
 # ----------------------------------------------------
 
-# Diccionario para prueba
-persona = {
-    "nombre": "Luis",
-    "edad": 63,
-    "pais": "Argentina"
-}
-
-
-clave = input("Ingresar la clave que desea consultar: ")
-
-try:
-    valor = persona[clave]
-    print(f"El valor de '{clave}' es: {valor}")
-
-except KeyError:
-    print(f"Error: la clave '{clave}' no existe en el diccionario.")
+numero = int(input("Ingrese un número: "))
+print("Par" if numero % 2 == 0 else "Impar")
